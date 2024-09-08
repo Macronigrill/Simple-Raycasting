@@ -1,0 +1,15 @@
+{
+    "id":"raycastHelpers",
+    "title":"Simple Raycasting",
+    "description":"A selection of functions that allow for simple Raycasting, meant to be easy to use with Sequencer.",
+    "authors": [{"name":"Macronigrill","url":"https://github.com/Macronigrill"}],
+    "version":"0.0.1",
+    "compatibility": {
+        "verified":"12",
+        "minimum":"11",
+        "maximum":"12"
+    },
+    "scripts": [
+        "module.js"
+    ]
+}
