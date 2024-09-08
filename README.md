@@ -1,7 +1,9 @@
 This Module contains simple Raycasting functions to assist in creating macros for FoundryVTT.
 Goals: Provide easy to use Raycasting functionality to use in macros. Mainly intended to be used with Sequencer to enable more complex animations.
 Current state of development: In this preview version, only a Basic Raycast is available. Options for Sweeping rays or thick rays will be added later.
----------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Manifest URL: https://github.com/Macronigrill/Simple-Raycasting/releases/download/0.0.1-preview/module.json
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 How to use:
 The module provides a Raycast class that can be used to intercept walls. In foundry, you can see the exact code by opening the browser console with F12 and typing "Raycast()"
 The module will at some point provide multiple options but for now only a simple raycast towards a target is available.
