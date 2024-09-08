@@ -1,6 +1,4 @@
 This Module contains simple Raycasting functions to assist in creating macros for FoundryVTT.
-Goals: Provide easy to use Raycasting functionality to use in macros. Mainly intended to be used with Sequencer to enable more complex animations.
-Current state of development: In this preview version, only a Basic Raycast is available. Options for Sweeping rays or thick rays will be added later.
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 Manifest URL: https://github.com/Macronigrill/Simple-Raycasting/releases/download/0.0.1-preview/module.json
 --------------------------------------------------------------------------------------------------------------------------------------------------------
